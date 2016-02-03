@@ -4,8 +4,8 @@
     "license" : "MIT",
     "authors": [
         {
-            "name": "Zenek Palmer",
-            "email": "zen.palmer@gmail.com"
+            "name": "Manoj Saini",
+            "email": "manojsaini81@gmail.com"
         }
     ],
     "require": {
@@ -20,6 +20,5 @@
         "psr-0": {
             "ManojSaini\\LaravelSolarium\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
